@@ -1,0 +1,10 @@
+public class datatypes {
+public static void main(String args[]) {
+int a=5;
+byte b=1;
+char c='G';
+boolean d=true;
+long e=10000000000;
+double f= 12.12345678;
+System.out.println(a+"\n"+b+"\n"+c+"\n"+d+"\n"+e+"\n"+f+"\n");
+}
